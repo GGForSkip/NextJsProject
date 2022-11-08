@@ -1,0 +1,2 @@
+# NextJsProject
+NextJsProjectToBeCompleted
